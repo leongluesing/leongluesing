@@ -5,6 +5,7 @@
 - [GitLab](https://gitlab.com/leongluesing) (private)
 - [GitLab NRW](https://gitlab.git.nrw/leongluesing) (work-related)
 - [GitHub](https://github.com/leongluesing) (private)
+- [GitLab GWDG](https://gitlab.gwdg.de/gluesing1) (work-related)
 
 ---
 
