@@ -4,6 +4,7 @@
 ### **Git Accounts**
 - [GitLab](https://gitlab.com/leongluesing) (private)
 - [GitLab NRW](https://gitlab.git.nrw/leongluesing) (work-related)
+- [GitHub](https://github.com/leongluesing) (private)
 
 ---
 
