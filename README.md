@@ -9,10 +9,18 @@
 
 ---
 
+### **Expertise**
 
-### **Fields of Interest**
-- **Academic:** Model Theory, Wittgensteinian Pragmatics, Kantian Epistemology
-- **Coding:** Open-Source, Python (SciPy), PostgreSQL, Self-Hosting
+#### **Programming languages**
+
+- **Python:** Advanced | NLP, Text Data Analysis | SciPy.sparse, NumPy | [see project](https://gitlab.git.nrw/leongluesing/pydistinto_lite)
+- **PostgreSQL:** Intermediate | [see project](https://gitlab.com/leongluesing/my-music-library)
+- **JavaScript:** Intermediate | Vue.js | Node.js (Express)
+- **Others:** Perl (Basic), C (Basic), TUSTEP (Advanced), R (Basic)
+#### **Fields of Interest**
+ - Open-Source/Self-Hosting, 
+ - C/Rust,
+ - PostgreSQL
 
 ---
 
