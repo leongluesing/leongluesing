@@ -48,7 +48,7 @@ Step-by-step instructions for setting up Syncthing on a VPS:
 ---
 
 ### **Academic Roles:**
-- **Academic Assistant** (April 2025 – April 2026): [PRODATPHIL – Centre for Philosophy of Science](https://www.uni-muenster.de/Wissenschaftstheorie/en/Forschung/PRODATPHIL/index.html) ([My Repository](https://gitlab.com/leongluesing/pydistintox))
+- **Academic Assistant** (April 2025 – March 2026): [PRODATPHIL – Centre for Philosophy of Science](https://www.uni-muenster.de/Wissenschaftstheorie/en/Forschung/PRODATPHIL/index.html) ([My Repository](https://gitlab.com/leongluesing/pydistintox))
 - **Academic Assistant** (Feb 2025–now): [Leibniz-Forschungsstelle Münster](https://www.uni-muenster.de/Leibniz/)
 
 ---
