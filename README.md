@@ -1,7 +1,8 @@
 # Leon Glüsing
 
-### **Git Accounts**
+### **Accounts**
 
+- [Pijul](https://nest.pijul.org/lale)
 - [GitLab RUB](https://gitlab.ruhr-uni-bochum.de/glueslcf) (work-related): [Ruhr Uni Bochum](https://ceres.rub.de/)
 - [GitLab GWDG](https://gitlab.gwdg.de/gluesing1) (work-related): [Leibniz-Forschungsstelle Münster](https://www.uni-muenster.de/Leibniz/seite2.html)
 - [GitLab](https://gitlab.com/leongluesing) (private)
@@ -15,25 +16,32 @@
 
 - **Python:** Advanced | NLP, Text Data Analysis | SciPy.sparse, NumPy | [see project](https://gitlab.com/pydistintox/pydistintox)
 - **PostgreSQL:** Intermediate
-- **JavaScript:** Intermediate | Vue.js | Node.js (Express)
+- **TypeScript:** Intermediate | Vue.js | Node.js (Express)
 - **Others:** C (Basic), TUSTEP (Advanced), R (Basic)
 
 #### **Fields of Interest**
 
-- Open-Source/Self-Hosting,
-- C/Rust,
 - [Pijul](https://pijul.org/)
+- Self-Hosting,
+- C/Rust,
 
 ---
 
 ### **Projects**
+
+#### Pijul for VS Code
+Pijul is a distributed, patch-based version control system with order-independent patches. This extension provides access from VS Code to the essential features of Pijul.
+
+- [Microsoft Marketplace](https://marketplace.visualstudio.com/items?itemName=lale.pijul-vscode)
+- [Repository](https://nest.pijul.org/lale/pijul-vscode)
+
 
 #### **Digital Index of Works Cited by Leibniz**
 
 Reimplementation of the old [Schriftenverzeichnis](https://www.uni-muenster.de/Leibniz/Schriften/schriften_start.html) via **SQLite**, **Flask** and **Vue.js** as frontend.
 
 - [**Website**](https://leibniz-ed-sv.adw-goe.de/)
-- [**Open-Data Repository**](https://gitlab.gwdg.de/leibniz-forschungsstelle-muenster/schriftenverzeichnis-public)
+- [**Repository**](https://gitlab.gwdg.de/leibniz-forschungsstelle-muenster/schriftenverzeichnis)
 
 #### **PyDistintoX**
 
